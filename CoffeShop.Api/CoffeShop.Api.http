@@ -1,0 +1,6 @@
+@CoffeShop.Api_HostAddress = http://localhost:5116
+
+GET {{CoffeShop.Api_HostAddress}}/drinks/
+Accept: application/json
+
+###
